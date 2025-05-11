@@ -154,3 +154,21 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+.participant-list {
+  list-style-type: disc;
+  margin-left: 20px;
+  padding-left: 0;
+}
+
+.participant-list li {
+  margin-bottom: 5px;
+  font-size: 0.9em;
+  color: #333;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+  margin-top: 10px;
+}
